@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on beijing
 - 🌱 I’m currently learning face recognition
-- 📫 How to reach me: im.lipengbo@gmail.com
+- 📫 How to reach me: im.lipengbo@foxmail.com
 <!--
 **bobo0810/bobo0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
