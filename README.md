@@ -1,18 +1,23 @@
 ### Hi there 👋
-- 🔭 I’m currently working on beijing
-- 🌱 I’m currently learning face recognition and model compression
-- 📫 How to reach me: im.lipengbo@foxmail.com
-<!--
-**bobo0810/bobo0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/bobo0810" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=bobo0810&title_color=333&text_color=777" alt="bobo0810's Status" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=bobo0810&hide=issues&title_color=333&text_color=777" alt="bobo0810's Status" >
+    -->
+  </a>
+</p>
+
+ 
+
+### Research Interests
+
+Face recognition,Model compression
+
+### Work Place
+
+Beijing
+
