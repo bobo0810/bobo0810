@@ -15,7 +15,10 @@
 
 ### Research Interests
 
-Face recognition, Model compression
+- Face Recognition
+- Face Detection
+- Face Comparison
+- Model Compression
 
 ### Work Place
 
