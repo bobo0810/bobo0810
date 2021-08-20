@@ -13,14 +13,15 @@
 
  
 
-### Research Interests
+### 研究领域
 
-- Face Recognition
-- Face Detection
-- Face Comparison
-- Model Compression
+- 人脸相关
+  - 人脸检测
+  - 人像比对
+- 涉黄涉政
+- 模型压缩
 
-### Work Place
+### 工作地点
 
-Beijing
+北京
 
