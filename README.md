@@ -11,7 +11,7 @@
 - 图像审核
   - 涉黄涉政
   - 涉爆涉恐
-  - 通用图像检索
+  - 图像检索
 
 <p align="center">
   <a href="https://github.com/bobo0810" class="rich-diff-level-one">
