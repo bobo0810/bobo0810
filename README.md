@@ -22,14 +22,8 @@
   - 涉暴涉恐
   - 图像检索
 
-<p align="center">
-  <a href="https://github.com/bobo0810" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=bobo0810&show_icons=true" alt="bobo0810's stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=bobo0810&hide=issues&title_color=333&text_color=777" alt="bobo0810's Status" >
-    -->
-  </a>
-</p>
+<img align=""  src="https://github-readme-stats.vercel.app/api?username=bobo0810&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+
 
  
 
