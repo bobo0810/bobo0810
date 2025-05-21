@@ -2,7 +2,7 @@
 
 
 ## Blog
-<a href="https://www.zhihu.com/people/bobo0810" style="text-decoration:none;"> <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="10%" alt="" /></a>
+<a href="https://www.zhihu.com/people/bobo0810" style="text-decoration:none;"> <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="8%" alt="" /></a>
 
 
 
