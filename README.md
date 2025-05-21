@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-## 博客
-<a href="https://www.zhihu.com/people/bobo0810" style="text-decoration:none;"> <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
+## Blog
+<a href="https://www.zhihu.com/people/bobo0810" style="text-decoration:none;"> <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="10%" alt="" /></a>
 
 
 
-### 2025~ 任职阿里巴巴
+### 2025~至今 任职阿里巴巴
 - VLM预训练
 
 ### 2021~2024 任职BOSS直聘
@@ -14,7 +14,7 @@
 - VLM预训练
 
 
-### 2020  任职 威富视界-中科院半导体所
+### 2020  任职威富视界-中科院半导体所
 - 人脸风控
 
 
